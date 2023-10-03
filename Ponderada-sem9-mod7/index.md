@@ -7,7 +7,7 @@ Sem atualizações regulares, os LMs correm o risco de fornecer informações de
 
 ## Solução
 ### Diagrama de Blocos
-
+<img src="https://github.com/mariana2903/Atividade-Inteli/blob/main/Ponderada-sem9-mod7/Driagrama.drawio.png">
 
 ### Descrição dos Blocos
 **Conjunto de Dados Inicial**: Este bloco representa o conjunto inicial de dados usados para treinar o modelo pela primeira vez. Geralmente, são grandes conjuntos de texto, muitas vezes extraídos de várias fontes, como livros, artigos, sites, entre outros.
